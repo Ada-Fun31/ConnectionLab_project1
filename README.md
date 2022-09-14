@@ -24,6 +24,6 @@ a "reset" buttom on the right down borner might also be needed.
 ### wireframe sketches_2
 ![Wireframe2](sketch2.png)
 <br />
-The second frame I'm thinking continues the same concept of "in" or "out of" focus <br />
+The second frame I'm thinking uses the same concept of "in" or "out of" focus <br />
 This one is more towards a self-promotion type of web gallary, where user's first entry will get many boxed blured images scattered randomly on the page. Then user can drag and drop the boxes to the center area, where a cross shape indicates the focal point. Once the selected image is drop, it will comes into focal length and becomes sharp. User will enter the introduction page for the specific project that the image belongs to. 
 
