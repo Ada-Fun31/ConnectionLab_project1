@@ -17,4 +17,4 @@ interactivity：
 
 wireframe sketches!
 
-![Wireframe](sketch_1.jpg)
+![Wireframe1](sketch1.png)
