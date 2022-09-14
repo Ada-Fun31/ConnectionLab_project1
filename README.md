@@ -16,10 +16,14 @@ interactivity：
 
 ### wireframe sketches_1
 ![Wireframe1](sketch1.png)
-
+<br />
 I want the interface to look like a puzzle.(or just a puzzle game maybe?) <br />
 First entry, user will get bunch of blured boxes. User then need to click and drag the boxes to organize them in colunms and rows. Once the boxes are arrayed, a focused pattern will appear.<br />
 a "reset" buttom on the right down borner might also be needed. 
 
 ### wireframe sketches_2
 ![Wireframe2](sketch2.png)
+<br />
+The second frame I'm thinking continues the same concept of "in" or "out of" focus <br />
+This one is more towards a self-promotion type of web gallary, where user's first entry will get many boxed blured images scattered randomly on the page. Then user can drag and drop the boxes to the center area, where a cross shape indicates the focal point. Once the selected image is drop, it will comes into focal length and becomes sharp. User will enter the introduction page for the specific project that the image belongs to. 
+
