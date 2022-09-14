@@ -17,7 +17,7 @@ interactivity：
 ### wireframe sketches_1
 ![Wireframe1](sketch1.png)
 
-I want the interface to look like a puzzle.(or just a puzzle game maybe?)
+I want the interface to look like a puzzle.(or just a puzzle game maybe?) <br />
 First entry, user will get bunch of blured boxes. User then need to click and drag the boxes to organize them in colunms and rows. Once the boxes are arrayed, a focused pattern will appear.
 a "reset" buttom on the right down borner might also be needed. 
 
