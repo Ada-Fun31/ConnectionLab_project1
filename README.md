@@ -18,4 +18,4 @@ interactivity：
 wireframe sketches!
 
 
-![sketch_1](https://user-images.githubusercontent.com/95581380/190192328-f65a3474-1bc7-40e9-93ef-a50f0c54df58.jpg)
+![sketch_1](sketch_1.jpg)
