@@ -12,11 +12,14 @@ interactivity：
    protfolio site from my undergrad instructor Hirad Sab
    - click into the top "gutter" section, a little puzzel game, feels like arranging a gallery
    - the UI deisgn once mouse over any project title
-3. 
 
 
-wireframe sketches_1
+### wireframe sketches_1
 ![Wireframe1](sketch1.png)
 
-wireframe sketches_2
+I want the interface to look like a puzzle.(or just a puzzle game maybe?)
+First entry, user will get bunch of blured boxes. User then need to click and drag the boxes to organize them in colunms and rows. Once the boxes are arrayed, a focused pattern will appear.
+a "reset" buttom on the right down borner might also be needed. 
+
+### wireframe sketches_2
 ![Wireframe2](sketch2.png)
