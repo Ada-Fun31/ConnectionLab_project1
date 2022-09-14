@@ -17,5 +17,4 @@ interactivity：
 
 wireframe sketches!
 
-
-![sketch_1](sketch_1.jpg)
+<img src="sketch_1.jpg" />
