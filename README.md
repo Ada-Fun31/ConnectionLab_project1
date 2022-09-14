@@ -16,7 +16,4 @@ interactivity：
 
 
 wireframe sketches!
-
-1. [Uploading sketch_1.jpg…]()
-
-2. ![sketch_2](https://user-images.githubusercontent.com/95581380/190190078-2f4950c2-62c8-473e-b6a8-0ccc09bd9a26.jpg)
+![sketch_1](https://user-images.githubusercontent.com/95581380/190190249-5b0744cd-9e17-4fc4-8eb4-99f4fb1e53b9.jpg)
