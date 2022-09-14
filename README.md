@@ -15,6 +15,8 @@ interactivity：
 3. 
 
 
-wireframe sketches!
-
+wireframe sketches_1
 ![Wireframe1](sketch1.png)
+
+wireframe sketches_2
+![Wireframe2](sketch2.png)
